@@ -24,9 +24,7 @@
   <img align="center" alt="Neo4j" height="40" width="60" src="https://osgeouk.github.io/pgday/logos/postgis-logo.png"/>
   <img align="center" alt="Neo4j" height="40" width="60" src="https://www.vhv.rs/dpng/d/295-2958586_transparent-arcgis-logo-png-arcgis-pro-logo-png.png"/>
 </div>
-
-
 ## Contact & Social:
     
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-p%C3%B3voa-fran%C3%A7a-97502420b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:joaovictorpfr@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/brunopresley/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:brunopresley13@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

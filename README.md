@@ -5,11 +5,6 @@
 - 📊 **Data Science:** Machine Learning, análise estatística, visualização de dados e dashboards interativos.
 - 🗄️ **Data Management:** Arquitetura e modelagem de bancos de dados relacionais/espaciais, pipelines de dados e governança.
 
-* **AI & Cloud:** 
-* **Stack:** 
-* **Data:** 
-* **Academic:** 
-* **Experience:** 
 
 ## 
 
